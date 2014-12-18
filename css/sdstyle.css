@@ -1,0 +1,119 @@
+#support {
+float:left;
+width:650px;
+min-height:176px;
+border:1px dashed #0074a2;
+margin-bottom: 10px;
+}
+
+.header {
+float:left;
+width: 635px;
+height: 25px;
+background: #0074a2;
+color: #EEE;
+font-size: 14px;
+font-weight: 300;
+line-height: 18px;
+padding: 8px;
+}
+
+.xtra {
+float:left;
+width:275px;
+text-align:left;
+padding:4px 14px 4px;
+height: 12px;
+overflow: hidden;
+text-overflow: ellipsis;
+white-space: nowrap;
+}
+
+.wide {
+float:left;
+width:175px;
+text-align:left;
+padding:4px;
+}
+
+.thin {
+float:left;
+width:125px;
+text-align:left;
+padding:4px;
+}
+
+.heading {
+float:left;
+width:634px;
+height: 25px;
+background:#DAF5FF;
+font-size: 13px;
+font-weight: 300;
+line-height: 18px;
+padding: 4px 8px;
+}
+
+.sd-body {
+float:left;
+height: 45px;
+width: 626px;
+padding: 12px;
+overflow: hidden;
+text-overflow: ellipsis;
+font-size: 12px;
+font-weight: 300;
+line-height: 18px;
+}
+
+.footer {
+float:left;
+height: 25px;
+width:634px;
+background: #EEE;
+font-size: 13px;
+font-weight: 300;
+line-height: 18px;
+padding: 4px 8px;
+}
+
+.sdreply-body {
+float:left;
+width: 626px;
+padding: 12px;
+overflow: hidden;
+text-overflow: ellipsis;
+font-size: 12px;
+font-weight: 300;
+line-height: 18px;
+}
+
+.status {
+padding: 8px;
+background: #DAF5FF;
+font-size: 12px;
+font-weight: normal;
+text-transform: uppercase;
+margin-right:150px;
+width: 200px;
+}
+
+.dept {
+padding: 8px;
+background: #BBC;
+font-size: 12px;
+font-weight: normal;
+text-transform: uppercase;
+margin-right:10px;
+}
+
+#sdock_support {
+float:left;
+margin-top: 100px;
+}
+
+.sdock_reply {
+float:left;
+margin-top:20px;
+clear:both;
+}
